@@ -39,11 +39,11 @@ This project develops a review analyzer for a dataset containing product reviews
 
 
 - **Vader Subplots:**
-![Vader Subplots](images\vader_score.png)
+![Vader Subplots](images/vader_score.png)
 
 
 - **Vader & Roberta pretrained model subplots:**
-![Vader & Roberta pretrained model subplots](images\vader_roberta_score.png)
+![Vader & Roberta pretrained model subplots](images/vader_roberta_score.png)
 
 ## Future Enhancements
 - Integration with additional datasets or APIs to enrich the analysis with diverse review data.
