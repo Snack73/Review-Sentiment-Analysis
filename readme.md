@@ -1,6 +1,6 @@
 # Review Analyzer for Product Reviews Dataset
 
-This project develops a review analyzer for a dataset containing product reviews, offering sentiment analysis and insights into review sentiment distribution. A similar approach can 
+This project develops a review analyzer for a dataset containing product reviews, offering sentiment analysis and insights into review sentiment distribution. A similar approach can be used with the data that is scrapped off using the particular APIs.
 
 ## Table of Contents
 - [Features](#features)
